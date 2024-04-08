@@ -6,7 +6,7 @@ import javax.swing.*;
 public class Main {
     public static void main(String[] args) {
         JFrame frame = new JFrame();
-        frame.setSize(100,600);
+        frame.setSize(150,600);
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
